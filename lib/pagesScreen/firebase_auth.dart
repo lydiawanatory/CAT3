@@ -1,0 +1,3 @@
+mixin firebaseAuth {
+  var instance;
+}
